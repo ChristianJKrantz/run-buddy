@@ -1,4 +1,4 @@
-<h1 align="center">🏃 Run Buddy</h1>
+<h1 align="center">Run Buddy</h1>
 
 <p align="center">A responsive landing page for Run Buddy, a fictional personal running-coach service.</p>
 
@@ -6,6 +6,8 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css&amp;logoColor=white" alt="CSS3">
 </p>
+
+<p align="center"><a href="https://christiankrantz11.github.io/run-buddy/"><strong>Live Demo</strong></a></p>
 
 <p align="center">
   <img src="docs/screenshot.jpg" alt="Run Buddy landing page on desktop with navigation and a Get Started Today sign-up form" width="640" align="top">
@@ -52,4 +54,4 @@ No build step is needed.
 
 ## Author
 
-[ChristianKrantz11](https://github.com/ChristianKrantz11)
+**Christian Krantz**: [Portfolio](https://christiankrantz11.github.io/) · [LinkedIn](https://www.linkedin.com/in/christian-krantz-49976b189) · [GitHub](https://github.com/ChristianKrantz11)
